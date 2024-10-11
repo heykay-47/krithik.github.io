@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "krithik_portfolio1.jpg"
   name             : "Krithik"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Geek, living life one line of code at a time"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : krithik-j
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : krithik_8
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -76,16 +76,16 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'NULL'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'NULL'    
   conferences:
-    title: 'Conference Papers'
+    title: 'NULL'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 89
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
