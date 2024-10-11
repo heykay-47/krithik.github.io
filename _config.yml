@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "krithik_portfolio1.jpg"
+  avatar           : "krithik_portfolio1.jpg" 
   name             : "Krithik"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Geek, living life one line of code at a time"
